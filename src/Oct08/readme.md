@@ -17,3 +17,5 @@ Benifit : Memory
 
 Static is the first thing to be defined in the memory
 Static>Instance>Constructor>method
+
+Constructor is necessary to intilaize
