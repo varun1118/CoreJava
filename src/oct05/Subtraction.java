@@ -1,4 +1,4 @@
-package Oct05;
+package oct05;
 
 public class Subtraction {
     public int sub(int x, int y){

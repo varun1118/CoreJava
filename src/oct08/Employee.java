@@ -1,4 +1,4 @@
-package Oct08;
+package oct08;
 
 public class Employee {
     public static void test(){

@@ -1,4 +1,4 @@
-package Oct05;
+package oct05;
 
 public class Calc {
     public int sum(int x, int y){

@@ -1,4 +1,4 @@
-package Oct05;
+package oct05;
 
 public class Addition {
     public int add(int x, int y){
