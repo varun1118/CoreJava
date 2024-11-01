@@ -11,6 +11,7 @@ public class books {
         Vector<Integer> vector1=new Vector<>();
         vector.add(1);
         vector.add(2);
+        vector.add(3);
        vector1.add(1);
        vector1.add(2);
         System.out.println(vector.equals(vector1));
